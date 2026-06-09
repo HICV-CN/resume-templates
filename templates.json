@@ -1,0 +1,815 @@
+{
+  "generated_at": "2026-06-09T09:14:07.484Z",
+  "total": 72,
+  "templates": [
+    {
+      "token": "college-student-bank-campus-resume-template-74",
+      "name": "大学生银行校招简历模板",
+      "url": "https://hicv.cn/templates/college-student-bank-campus-resume-template-74",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文",
+        "校招简历",
+        "金融"
+      ],
+      "desc": "大学生银行校招简历模板适合大学生求职/实习 / 银行校招场景，围绕银行校招的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-nursing-resume-template-73",
+      "name": "大学生护士简历模板",
+      "url": "https://hicv.cn/templates/college-student-nursing-resume-template-73",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文",
+        "护士简历模板"
+      ],
+      "desc": "大学生护士简历模板适合大学生求职/实习 / 护士场景，围绕护士的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-medical-resume-template-72",
+      "name": "大学生医学生简历模板",
+      "url": "https://hicv.cn/templates/college-student-medical-resume-template-72",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文"
+      ],
+      "desc": "大学生医学生简历模板适合大学生求职/实习 / 医学生场景，围绕医学生的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-law-resume-template-71",
+      "name": "大学生法学生简历模板",
+      "url": "https://hicv.cn/templates/college-student-law-resume-template-71",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文"
+      ],
+      "desc": "大学生法学生简历模板适合大学生求职/实习 / 法学生场景，围绕法学生的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-architecture-resume-template-70",
+      "name": "大学生建筑设计简历模板",
+      "url": "https://hicv.cn/templates/college-student-architecture-resume-template-70",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文"
+      ],
+      "desc": "大学生建筑设计简历模板适合大学生求职/实习 / 建筑设计场景，围绕建筑设计的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-civil-engineer-resume-template-69",
+      "name": "大学生土木工程简历模板",
+      "url": "https://hicv.cn/templates/college-student-civil-engineer-resume-template-69",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文"
+      ],
+      "desc": "大学生土木工程简历模板适合大学生求职/实习 / 土木工程场景，围绕土木工程的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-electrical-engineer-resume-template-68",
+      "name": "大学生电气工程师简历模板",
+      "url": "https://hicv.cn/templates/college-student-electrical-engineer-resume-template-68",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文",
+        "制造业",
+        "电子信息工程"
+      ],
+      "desc": "大学生电气工程师简历模板适合大学生求职/实习 / 电气工程师场景，围绕电气工程师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-mechanical-engineer-resume-template-67",
+      "name": "大学生机械工程师简历模板",
+      "url": "https://hicv.cn/templates/college-student-mechanical-engineer-resume-template-67",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文",
+        "制造业"
+      ],
+      "desc": "大学生机械工程师简历模板适合大学生求职/实习 / 机械工程师场景，围绕机械工程师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-semiconductor-engineer-resume-template-66",
+      "name": "大学生半导体工程师简历模板",
+      "url": "https://hicv.cn/templates/college-student-semiconductor-engineer-resume-template-66",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文",
+        "制造业",
+        "电子信息工程"
+      ],
+      "desc": "大学生半导体工程师简历模板适合大学生求职/实习 / 半导体工程师场景，围绕半导体工程师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-education-training-resume-template-65",
+      "name": "大学生教育培训简历模板",
+      "url": "https://hicv.cn/templates/college-student-education-training-resume-template-65",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "教师简历模板",
+        "简历范文",
+        "教育培训"
+      ],
+      "desc": "大学生教育培训简历模板适合大学生求职/实习 / 教育培训场景，围绕教育培训的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-teacher-resume-template-64",
+      "name": "大学生教师简历模板",
+      "url": "https://hicv.cn/templates/college-student-teacher-resume-template-64",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "教师简历模板",
+        "简历范文",
+        "教育培训"
+      ],
+      "desc": "大学生教师简历模板适合大学生求职/实习 / 教师场景，围绕教师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-consulting-resume-template-63",
+      "name": "大学生咨询顾问简历模板",
+      "url": "https://hicv.cn/templates/college-student-consulting-resume-template-63",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文"
+      ],
+      "desc": "大学生咨询顾问简历模板适合大学生求职/实习 / 咨询顾问场景，围绕咨询顾问的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-accounting-resume-template-61",
+      "name": "大学生会计简历模板",
+      "url": "https://hicv.cn/templates/college-student-accounting-resume-template-61",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文"
+      ],
+      "desc": "大学生会计简历模板适合大学生求职/实习 / 会计场景，围绕会计的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-quant-research-resume-template-60",
+      "name": "大学生量化研究员简历模板",
+      "url": "https://hicv.cn/templates/college-student-quant-research-resume-template-60",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文",
+        "python",
+        "金融"
+      ],
+      "desc": "大学生量化研究员简历模板适合大学生求职/实习 / 量化研究员场景，围绕量化研究员的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-hr-specialist-resume-template-58",
+      "name": "大学生人力资源简历模板",
+      "url": "https://hicv.cn/templates/college-student-hr-specialist-resume-template-58",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文"
+      ],
+      "desc": "大学生人力资源简历模板适合大学生求职/实习 / 人力资源场景，围绕人力资源的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-marketing-resume-template-57",
+      "name": "大学生市场营销简历模板",
+      "url": "https://hicv.cn/templates/college-student-marketing-resume-template-57",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文"
+      ],
+      "desc": "大学生市场营销简历模板适合大学生求职/实习 / 市场营销场景，围绕市场营销的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-user-operations-resume-template-56",
+      "name": "大学生用户运营简历模板",
+      "url": "https://hicv.cn/templates/college-student-user-operations-resume-template-56",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "运营简历模板",
+        "简历范文",
+        "互联网"
+      ],
+      "desc": "大学生用户运营简历模板适合大学生求职/实习 / 用户运营场景，围绕用户运营的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-new-media-operator-resume-template-55",
+      "name": "大学生新媒体运营简历模板",
+      "url": "https://hicv.cn/templates/college-student-new-media-operator-resume-template-55",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "运营简历模板",
+        "简历范文",
+        "互联网"
+      ],
+      "desc": "大学生新媒体运营简历模板适合大学生求职/实习 / 新媒体运营场景，围绕新媒体运营的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-ai-engineer-resume-template-54",
+      "name": "大学生人工智能工程师简历模板",
+      "url": "https://hicv.cn/templates/college-student-ai-engineer-resume-template-54",
+      "tags": [
+        "大学生简历模板",
+        "程序员简历模板",
+        "求职简历模板",
+        "简历范文"
+      ],
+      "desc": "大学生人工智能工程师简历模板适合大学生求职/实习 / 人工智能工程师场景，围绕人工智能工程师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-algorithm-engineer-resume-template-53",
+      "name": "大学生算法工程师简历模板",
+      "url": "https://hicv.cn/templates/college-student-algorithm-engineer-resume-template-53",
+      "tags": [
+        "大学生简历模板",
+        "程序员简历模板",
+        "求职简历模板",
+        "简历范文"
+      ],
+      "desc": "大学生算法工程师简历模板适合大学生求职/实习 / 算法工程师场景，围绕算法工程师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-data-analyst-resume-template-52",
+      "name": "大学生数据分析师简历模板",
+      "url": "https://hicv.cn/templates/college-student-data-analyst-resume-template-52",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文",
+        "互联网",
+        "数据分析"
+      ],
+      "desc": "大学生数据分析师简历模板适合大学生求职/实习 / 数据分析师场景，围绕数据分析师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-frontend-engineer-resume-template-51",
+      "name": "大学生前端开发工程师简历模板",
+      "url": "https://hicv.cn/templates/college-student-frontend-engineer-resume-template-51",
+      "tags": [
+        "大学生简历模板",
+        "程序员简历模板",
+        "求职简历模板",
+        "简历范文",
+        "互联网"
+      ],
+      "desc": "大学生前端开发工程师简历模板适合大学生求职/实习 / 前端开发工程师场景，围绕前端开发工程师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-java-backend-resume-template-50",
+      "name": "大学生Java后端开发简历模板",
+      "url": "https://hicv.cn/templates/college-student-java-backend-resume-template-50",
+      "tags": [
+        "大学生简历模板",
+        "程序员简历模板",
+        "求职简历模板",
+        "简历范文",
+        "互联网",
+        "Java"
+      ],
+      "desc": "大学生Java后端开发简历模板适合大学生求职/实习 / Java后端开发场景，围绕Java后端开发的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-product-manager-resume-template-49",
+      "name": "大学生产品经理简历模板",
+      "url": "https://hicv.cn/templates/college-student-product-manager-resume-template-49",
+      "tags": [
+        "大学生简历模板",
+        "产品经理简历模板",
+        "求职简历模板",
+        "简历范文",
+        "互联网"
+      ],
+      "desc": "大学生产品经理简历模板适合大学生求职/实习 / 产品经理场景，围绕产品经理的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "career-change-resume-template-48",
+      "name": "转行简历模板",
+      "url": "https://hicv.cn/templates/career-change-resume-template-48",
+      "tags": [
+        "求职简历模板",
+        "简历范文",
+        "社招简历"
+      ],
+      "desc": "转行简历模板适合跨行业求职场景，围绕转行求职者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "scholarship-resume-template-47",
+      "name": "奖学金申请简历模板",
+      "url": "https://hicv.cn/templates/scholarship-resume-template-47",
+      "tags": [
+        "大学生简历模板",
+        "留学简历模板",
+        "简历范文"
+      ],
+      "desc": "奖学金申请简历模板适合奖学金/项目申请场景，围绕奖学金申请者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "research-assistant-resume-template-46",
+      "name": "科研助理简历模板",
+      "url": "https://hicv.cn/templates/research-assistant-resume-template-46",
+      "tags": [
+        "大学生简历模板",
+        "简历范文",
+        "保研简历"
+      ],
+      "desc": "科研助理简历模板适合科研项目/实验室申请场景，围绕科研助理的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "overseas-internship-resume-template-45",
+      "name": "海外实习简历模板",
+      "url": "https://hicv.cn/templates/overseas-internship-resume-template-45",
+      "tags": [
+        "实习生简历模板",
+        "留学简历模板",
+        "英文简历模板"
+      ],
+      "desc": "海外实习简历模板适合海外实习申请场景，围绕海外实习申请者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "mba-resume-template-44",
+      "name": "MBA申请简历模板",
+      "url": "https://hicv.cn/templates/mba-resume-template-44",
+      "tags": [
+        "留学简历模板",
+        "英文简历模板",
+        "简历范文"
+      ],
+      "desc": "MBA申请简历模板适合商学院申请场景，围绕MBA申请者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "state-owned-enterprise-resume-template-43",
+      "name": "国企简历模板",
+      "url": "https://hicv.cn/templates/state-owned-enterprise-resume-template-43",
+      "tags": [
+        "求职简历模板",
+        "校招简历",
+        "社招简历"
+      ],
+      "desc": "国企简历模板适合国企校招/社招场景，围绕国企求职者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "bank-campus-resume-template-42",
+      "name": "银行校招简历模板",
+      "url": "https://hicv.cn/templates/bank-campus-resume-template-42",
+      "tags": [
+        "应届生简历模板",
+        "校招简历",
+        "金融"
+      ],
+      "desc": "银行校招简历模板适合银行校园招聘场景，围绕银行管培生的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "nursing-resume-template-41",
+      "name": "护士简历模板",
+      "url": "https://hicv.cn/templates/nursing-resume-template-41",
+      "tags": [
+        "求职简历模板",
+        "简历范文",
+        "护士简历模板"
+      ],
+      "desc": "护士简历模板适合护理岗位投递场景，围绕护士的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "medical-resume-template-40",
+      "name": "医学生简历模板",
+      "url": "https://hicv.cn/templates/medical-resume-template-40",
+      "tags": [
+        "大学生简历模板",
+        "简历范文"
+      ],
+      "desc": "医学生简历模板适合医院实习/规培申请场景，围绕医学生求职者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "law-resume-template-39",
+      "name": "法学生简历模板",
+      "url": "https://hicv.cn/templates/law-resume-template-39",
+      "tags": [
+        "实习生简历模板",
+        "简历范文"
+      ],
+      "desc": "法学生简历模板适合法务/律所实习场景，围绕法务实习生的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "architecture-resume-template-38",
+      "name": "建筑设计简历模板",
+      "url": "https://hicv.cn/templates/architecture-resume-template-38",
+      "tags": [
+        "实习生简历模板",
+        "简历范文"
+      ],
+      "desc": "建筑设计简历模板适合建筑设计实习场景，围绕建筑设计助理的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "civil-engineer-resume-template-37",
+      "name": "土木工程简历模板",
+      "url": "https://hicv.cn/templates/civil-engineer-resume-template-37",
+      "tags": [
+        "求职简历模板",
+        "简历范文"
+      ],
+      "desc": "土木工程简历模板适合工程建设岗位场景，围绕土木工程师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "electrical-engineer-resume-template-36",
+      "name": "电气工程师简历模板",
+      "url": "https://hicv.cn/templates/electrical-engineer-resume-template-36",
+      "tags": [
+        "校招简历",
+        "制造业",
+        "电子信息工程"
+      ],
+      "desc": "电气工程师简历模板适合电气自动化校招场景，围绕电气工程师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "mechanical-engineer-resume-template-35",
+      "name": "机械工程师简历模板",
+      "url": "https://hicv.cn/templates/mechanical-engineer-resume-template-35",
+      "tags": [
+        "应届生简历模板",
+        "制造业"
+      ],
+      "desc": "机械工程师简历模板适合制造业校招场景，围绕机械工程师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "semiconductor-engineer-resume-template-34",
+      "name": "半导体工程师简历模板",
+      "url": "https://hicv.cn/templates/semiconductor-engineer-resume-template-34",
+      "tags": [
+        "校招简历",
+        "制造业",
+        "电子信息工程"
+      ],
+      "desc": "半导体工程师简历模板适合半导体制造校招场景，围绕半导体工程师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "education-training-resume-template-33",
+      "name": "教育培训简历模板",
+      "url": "https://hicv.cn/templates/education-training-resume-template-33",
+      "tags": [
+        "求职简历模板",
+        "教师简历模板",
+        "教育培训"
+      ],
+      "desc": "教育培训简历模板适合教培岗位投递场景，围绕培训讲师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "teacher-resume-template-32",
+      "name": "教师简历模板",
+      "url": "https://hicv.cn/templates/teacher-resume-template-32",
+      "tags": [
+        "应届生简历模板",
+        "教师简历模板",
+        "教育培训"
+      ],
+      "desc": "教师简历模板适合教师招聘场景，围绕中小学教师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "consulting-resume-template-31",
+      "name": "咨询顾问简历模板",
+      "url": "https://hicv.cn/templates/consulting-resume-template-31",
+      "tags": [
+        "简历范文",
+        "校招简历"
+      ],
+      "desc": "咨询顾问简历模板适合咨询公司校招场景，围绕咨询顾问的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "audit-resume-template-30",
+      "name": "审计简历模板",
+      "url": "https://hicv.cn/templates/audit-resume-template-30",
+      "tags": [
+        "四大简历",
+        "校招简历"
+      ],
+      "desc": "审计简历模板适合事务所审计校招场景，围绕审计助理的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "accounting-resume-template-29",
+      "name": "会计简历模板",
+      "url": "https://hicv.cn/templates/accounting-resume-template-29",
+      "tags": [
+        "求职简历模板",
+        "简历范文"
+      ],
+      "desc": "会计简历模板适合财务会计岗位场景，围绕会计专员的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "quant-research-resume-template-28",
+      "name": "量化研究员简历模板",
+      "url": "https://hicv.cn/templates/quant-research-resume-template-28",
+      "tags": [
+        "校招简历",
+        "python",
+        "金融"
+      ],
+      "desc": "量化研究员简历模板适合券商/私募量化场景，围绕量化研究员的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "finance-analyst-resume-template-27",
+      "name": "金融分析师简历模板",
+      "url": "https://hicv.cn/templates/finance-analyst-resume-template-27",
+      "tags": [
+        "应届生简历模板",
+        "校招简历",
+        "金融"
+      ],
+      "desc": "金融分析师简历模板适合金融校招场景，围绕金融分析师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "hr-specialist-resume-template-26",
+      "name": "人力资源简历模板",
+      "url": "https://hicv.cn/templates/hr-specialist-resume-template-26",
+      "tags": [
+        "实习生简历模板",
+        "简历范文"
+      ],
+      "desc": "人力资源简历模板适合HR实习/校招场景，围绕人力资源专员的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "marketing-resume-template-25",
+      "name": "市场营销简历模板",
+      "url": "https://hicv.cn/templates/marketing-resume-template-25",
+      "tags": [
+        "求职简历模板",
+        "简历范文"
+      ],
+      "desc": "市场营销简历模板适合市场/品牌岗位场景，围绕市场营销专员的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "user-operations-resume-template-24",
+      "name": "用户运营简历模板",
+      "url": "https://hicv.cn/templates/user-operations-resume-template-24",
+      "tags": [
+        "实习生简历模板",
+        "运营简历模板",
+        "互联网"
+      ],
+      "desc": "用户运营简历模板适合用户增长/社群运营场景，围绕用户运营的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "new-media-operator-resume-template-23",
+      "name": "新媒体运营简历模板",
+      "url": "https://hicv.cn/templates/new-media-operator-resume-template-23",
+      "tags": [
+        "求职简历模板",
+        "运营简历模板",
+        "互联网"
+      ],
+      "desc": "新媒体运营简历模板适合运营岗位投递场景，围绕新媒体运营的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "ai-engineer-resume-template-22",
+      "name": "人工智能工程师简历模板",
+      "url": "https://hicv.cn/templates/ai-engineer-resume-template-22",
+      "tags": [
+        "程序员简历模板",
+        "校招简历"
+      ],
+      "desc": "人工智能工程师简历模板适合AI岗位投递场景，围绕人工智能工程师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "algorithm-engineer-resume-template-21",
+      "name": "算法工程师简历模板",
+      "url": "https://hicv.cn/templates/algorithm-engineer-resume-template-21",
+      "tags": [
+        "程序员简历模板",
+        "校招简历"
+      ],
+      "desc": "算法工程师简历模板适合算法校招场景，围绕算法工程师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "data-analyst-resume-template-20",
+      "name": "数据分析师简历模板",
+      "url": "https://hicv.cn/templates/data-analyst-resume-template-20",
+      "tags": [
+        "应届生简历模板",
+        "互联网",
+        "数据分析"
+      ],
+      "desc": "数据分析师简历模板适合商业分析/运营分析场景，围绕数据分析师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "frontend-engineer-resume-template-19",
+      "name": "前端开发工程师简历模板",
+      "url": "https://hicv.cn/templates/frontend-engineer-resume-template-19",
+      "tags": [
+        "程序员简历模板",
+        "互联网",
+        "校招简历"
+      ],
+      "desc": "前端开发工程师简历模板适合前端开发校招场景，围绕前端开发工程师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "java-backend-resume-template-18",
+      "name": "Java后端开发简历模板",
+      "url": "https://hicv.cn/templates/java-backend-resume-template-18",
+      "tags": [
+        "程序员简历模板",
+        "互联网",
+        "Java"
+      ],
+      "desc": "Java后端开发简历模板适合后端开发校招场景，围绕Java后端开发工程师的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "product-manager-campus-resume-template-17",
+      "name": "产品经理校招简历模板",
+      "url": "https://hicv.cn/templates/product-manager-campus-resume-template-17",
+      "tags": [
+        "产品经理简历模板",
+        "互联网",
+        "校招简历"
+      ],
+      "desc": "产品经理校招简历模板适合产品校招场景，围绕产品经理校招生的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "resume-sample-resume-template-16",
+      "name": "简历范文模板",
+      "url": "https://hicv.cn/templates/resume-sample-resume-template-16",
+      "tags": [
+        "求职简历模板",
+        "免费简历模板",
+        "简历范文"
+      ],
+      "desc": "简历范文模板适合内容参考与改写场景，围绕简历范文参考者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "postgraduate-interview-resume-template-15",
+      "name": "考研复试简历模板",
+      "url": "https://hicv.cn/templates/postgraduate-interview-resume-template-15",
+      "tags": [
+        "大学生简历模板",
+        "简历范文",
+        "考研复试"
+      ],
+      "desc": "考研复试简历模板适合研究生复试场景，围绕考研复试学生的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "postgraduate-recommendation-resume-template-14",
+      "name": "保研简历模板",
+      "url": "https://hicv.cn/templates/postgraduate-recommendation-resume-template-14",
+      "tags": [
+        "大学生简历模板",
+        "简历范文",
+        "保研简历"
+      ],
+      "desc": "保研简历模板适合推免复试/夏令营场景，围绕保研申请者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "big-four-resume-template-13",
+      "name": "四大简历模板",
+      "url": "https://hicv.cn/templates/big-four-resume-template-13",
+      "tags": [
+        "简历范文",
+        "四大简历",
+        "校招简历"
+      ],
+      "desc": "四大简历模板适合四大校招/实习场景，围绕四大审计咨询申请者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "winter-intern-resume-template-12",
+      "name": "寒假实习简历模板",
+      "url": "https://hicv.cn/templates/winter-intern-resume-template-12",
+      "tags": [
+        "实习生简历模板",
+        "简历范文",
+        "寒假实习"
+      ],
+      "desc": "寒假实习简历模板适合寒假短期实习场景，围绕寒假实习申请者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "junior-intern-resume-template-11",
+      "name": "大三实习简历模板",
+      "url": "https://hicv.cn/templates/junior-intern-resume-template-11",
+      "tags": [
+        "实习生简历模板",
+        "简历范文",
+        "大三实习"
+      ],
+      "desc": "大三实习简历模板适合大三实习准备场景，围绕大三实习申请者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "social-recruit-resume-template-10",
+      "name": "社招简历模板",
+      "url": "https://hicv.cn/templates/social-recruit-resume-template-10",
+      "tags": [
+        "求职简历模板",
+        "简历范文",
+        "社招简历"
+      ],
+      "desc": "社招简历模板适合1-3年经验跳槽场景，围绕社招求职者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "campus-recruit-resume-template-09",
+      "name": "校招简历模板",
+      "url": "https://hicv.cn/templates/campus-recruit-resume-template-09",
+      "tags": [
+        "应届生简历模板",
+        "简历范文",
+        "校招简历"
+      ],
+      "desc": "校招简历模板适合秋招/春招投递场景，围绕校招求职者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "summer-intern-resume-template-08",
+      "name": "暑期实习简历模板",
+      "url": "https://hicv.cn/templates/summer-intern-resume-template-08",
+      "tags": [
+        "实习生简历模板",
+        "简历范文",
+        "暑期实习"
+      ],
+      "desc": "暑期实习简历模板适合暑期实习投递场景，围绕暑期实习申请者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "free-resume-template-07",
+      "name": "免费简历模板",
+      "url": "https://hicv.cn/templates/free-resume-template-07",
+      "tags": [
+        "大学生简历模板",
+        "免费简历模板",
+        "简历范文"
+      ],
+      "desc": "免费简历模板适合快速制作简历场景，围绕免费模板使用者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "english-resume-template-06",
+      "name": "英文简历模板",
+      "url": "https://hicv.cn/templates/english-resume-template-06",
+      "tags": [
+        "求职简历模板",
+        "英文简历模板",
+        "简历范文"
+      ],
+      "desc": "英文简历模板适合外企/海外岗位场景，围绕英文求职者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "study-abroad-resume-template-05",
+      "name": "留学简历模板",
+      "url": "https://hicv.cn/templates/study-abroad-resume-template-05",
+      "tags": [
+        "留学简历模板",
+        "英文简历模板",
+        "简历范文"
+      ],
+      "desc": "留学简历模板适合海外院校申请场景，围绕留学申请者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "job-application-resume-template-04",
+      "name": "求职简历模板",
+      "url": "https://hicv.cn/templates/job-application-resume-template-04",
+      "tags": [
+        "求职简历模板",
+        "免费简历模板",
+        "简历范文"
+      ],
+      "desc": "求职简历模板适合通用求职投递场景，围绕求职者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "fresh-graduate-resume-template-03",
+      "name": "应届生简历模板",
+      "url": "https://hicv.cn/templates/fresh-graduate-resume-template-03",
+      "tags": [
+        "应届生简历模板",
+        "简历范文",
+        "校招简历"
+      ],
+      "desc": "应届生简历模板适合校招通用场景，围绕应届毕业生的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "internship-resume-template-02",
+      "name": "实习生简历模板",
+      "url": "https://hicv.cn/templates/internship-resume-template-02",
+      "tags": [
+        "实习生简历模板",
+        "简历范文",
+        "暑期实习"
+      ],
+      "desc": "实习生简历模板适合首次实习投递场景，围绕实习生的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    },
+    {
+      "token": "college-student-resume-template-01",
+      "name": "大学生简历模板",
+      "url": "https://hicv.cn/templates/college-student-resume-template-01",
+      "tags": [
+        "大学生简历模板",
+        "求职简历模板",
+        "简历范文"
+      ],
+      "desc": "大学生简历模板适合校园实习/校招通用场景，围绕大学生求职者的核心经历、项目成果、技能关键词和求职表达组织内容，便于搜索用户快速找到可参考、可套用的模板与范文。"
+    }
+  ]
+}
